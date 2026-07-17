@@ -13,7 +13,7 @@ claim = "Abschlussarbeit leicht gemacht: Ein zentrales System, das Studierende, 
 abstract = ""
 
 # Hier wieder das korrekte Logo eintragen!
-card_image = "b5LogoFinal.jpg"
+card_image = "b5logofinal.jpg"
 
 # Names are optional, team size is sufficient
 team = ["Maliha Haque", "Valentin Kroll", "Orkun Öztürk", "Lloyd Sydney Ball", "Mohammed Al Ali"]
