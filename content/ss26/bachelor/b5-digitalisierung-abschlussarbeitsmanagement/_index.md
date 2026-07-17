@@ -56,13 +56,13 @@ Unsere Kernfunktionen auf einen Blick:
 
 
 {{<section title="Team">}}
-**Our wonderful Team of 5**
-{{</section>}} 
 
-{{<gallery>}}
-{{<team-member image="cat.jpg" name="Valentin">}}
-{{<team-member image="cat.jpg" name="Lloyd">}}
-{{<team-member image="cat.jpg" name="Maliha">}}
-{{<team-member image="cat.jpg" name="Mohammed">}}
-{{<team-member image="cat.jpg" name="Orkun">}}
-{{</gallery>}}
+**Our wonderful Team of 5**
+
+* Valentin Kroll
+* Lloyd Sydney Ball
+* Maliha Haque
+* Mohammed Al Ali
+* Orkun Öztürk
+
+{{</section>}}
