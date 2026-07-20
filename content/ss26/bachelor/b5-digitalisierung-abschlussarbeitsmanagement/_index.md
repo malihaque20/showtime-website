@@ -58,13 +58,5 @@ Unsere Kernfunktionen auf einen Blick:
 
 **Our wonderful Team of 5**
 
-(pics incoming...)
-{{<gallery>}}
-{{<team-member image="teamkittens.jpg" name="Valentin">}}
-{{<team-member image="teamkittens.jpg" name="Lloyd">}}
-{{<team-member image="teamkittens.jpg" name="Maliha">}}
-{{<team-member image="teamkittens.jpg" name="Mohammed">}}
-{{<team-member image="teamkittens.jpg" name="Orkun">}}
-{{</gallery>}}
 
 {{</section>}}
