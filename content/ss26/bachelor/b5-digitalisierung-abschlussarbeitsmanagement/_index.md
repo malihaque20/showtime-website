@@ -58,5 +58,6 @@ Unsere Kernfunktionen auf einen Blick:
 
 **Our wonderful Team of 5**
 
+(Bilder incoming...)
 
 {{</section>}}
