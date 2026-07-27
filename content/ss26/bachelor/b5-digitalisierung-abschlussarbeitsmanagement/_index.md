@@ -67,19 +67,10 @@ Unsere Kernfunktionen im Überblick:
 ![Login Screen](login-screen.png)
 <span style="color: #9B59B6;">Sicherer Einstieg via HTW-Login oder E-Mail</span>
 
-**2. Das Dashboard für Studierende**
-![Studenten Dashboard](student-view-after.png)
-<span style="color: #9B59B6;">Live-Status des Antrags und Direktdownload</span>
 
-
-**3. Das Dashboard für die Verwaltung / Sachbearbeiter**
+**2. Das Dashboard für die Verwaltung / Sachbearbeiter**
 ![Sachbearbeiter Dashboard](sachbearbeiter-view.png)
 <span style="color: #9B59B6;">Übersicht aller Anträge mit Excel-Export und Filterfunktionen</span>
-
-
-**4. Die automatische PDF-Generierung**
-![PDF Ansicht](pdf-ansicht.png)
-<span style="color: #9B59B6;">Dynamisch generierte Pdf zum Antrag</span>
 {{</section>}}
 
 
