@@ -1,7 +1,6 @@
 +++
 project_id = "B5"
 # Durch die Leerzeichen kann der Browser den Text am Bildschirmrand sauber umbrechen
-
 title = "Thesis Manager"
 
 # subtitle erscheint auf Übersichtsseite und Projektseite direkt unter dem Titel.
