@@ -63,14 +63,9 @@ Unsere Kernfunktionen im Überblick:
 
 ## Einblicke in die Anwendung
 
-**Der Login-Bereich**
-![Login Screen](login-screen.png)
-<span style="color: #9B59B6;">Sicherer Einstieg via HTW-Login oder E-Mail</span>
+{{<image src="login-screen.png" alt="Login Screen" caption="Sicherer Einstieg via HTW-Login oder E-Mail">}}
 
-
-**Das Dashboard für die Verwaltung / Sachbearbeiter**
-![Sachbearbeiter Dashboard](sachbearbeiter-view.png)
-<span style="color: #9B59B6;">Übersicht aller Anträge mit Excel-Export und Filterfunktionen</span>
+{{<image src="sachbearbeiter-view.png" alt="Sachbearbeiter Dashboard" caption="Übersicht aller Anträge mit Excel-Export und Filterfunktionen">}}
 {{</section>}}
 
 
